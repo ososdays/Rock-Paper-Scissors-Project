@@ -24,13 +24,12 @@ It also focuses on procedural programming and applying the Divide and Conquer st
 
 📸 Screenshots
 
-Main Game Screen
+### Main Game Screen
+![Main Game Screen](Images/p1.png)
 
-"Main Game Screen" (images/p1.png)
+### Game Results
+![Game Results](Images/p1part2.png)
 
-Game Results
-
-"Game Results" (images/p1part2.png)
 
 🚀 Getting Started
 
