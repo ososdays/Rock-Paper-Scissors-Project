@@ -67,7 +67,7 @@ Installation
 📂 Project Structure
 
 StonePaperScissors/
-├── Screenshots/
+├── Images/
 │   ├── p1.png
 │   └── p1part2.png
 ├── .gitattributes
@@ -77,7 +77,6 @@ StonePaperScissors/
 ├── LICENSE.txt
 └── README.md
 
-«Note: Adjust the file and folder names above to match your actual repository structure.»
 
 👨‍💻 Author
 
